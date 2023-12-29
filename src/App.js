@@ -29,7 +29,7 @@ function App() {
   }, []);
   return (
     <div className="app">
-      <h1>MovieNation</h1>
+      <h1>MoviesNation</h1>
 
       <div className="search">
         <input
